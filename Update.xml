@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Updates>
+   <Details>
+	<ApplicationName>InvoiceGen</ApplicationName>
+	<Author>Suri</Author>
+	<Company>Chalard LLC</Company>
+	<Version>1.0</Version>
+   </Details>
+   <ChangeLog>
+	<Info Text="First Update"/>
+   </ChangeLog>
+   <Instructions>
+	<File Name="InvoiceGen.exe" Destination="" Terminate="yes"/>
+   </Instructions>
+</Updates>
